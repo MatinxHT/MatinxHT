@@ -1,1 +1,1 @@
-![GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=matinxht&show_icons=true&theme=transparent)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=matinxht)](https://github.com/anuraghazra/github-readme-stats)
