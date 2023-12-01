@@ -1,3 +1,3 @@
 # Trying be better ...
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinxht)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matinxht)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=matinxht)
